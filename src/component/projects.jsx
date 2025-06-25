@@ -16,32 +16,37 @@ const projects = [
       "Github : https://github.com/Hrxvish/My-PortFolio"
     ]
   },
-  {
-    title: "SNIP level validation in EDI files (JavaScript)",
-    description: [
-      "Syntax Validation: Checks the basic structure, segment order, required fields, and delimiters in the EDI file.",
-      "Semantic Validation: Ensures proper data types, value formats, and segment relationships.",
-      "Balancing Validation: Validates financial transactions by checking that total amounts match line-item sums.",
-      "Code Set Validation: Ensures that all code values comply with standard EDI guidelines (e.g., ICD, CPT, NPI codes).",
-      "Implementation Guide-Specific Rules: Validates transactions against custom implementation guidelines."
-    ]
-  },
-  {
-    title: "JSON to EDI Converter (JavaScript)",
-    description: [
-      "Lightning-Fast Conversion : Optimized JavaScript logic ensures rapid and accurate JSON to EDI transformation.",
-      "Seamless Integration : Easily integrates with existing systems to automate EDI processing.",
-      "Customizable & Scalable : Adaptable to different EDI formats and scalable for growing data needs.",
-      "Github :https://github.com/Hrxvish/Json2edi"
-    ]
-  },
-  {
-    title: "EDI File Size Increaser (JavaScript)",
-    description: [
-      "Customizable Expansion : Allows flexible adjustments based on business and compliance needs.",
-      "Github : https://github.com/Hrxvish/edi_size_increase"
-    ]
-  },
+{
+  title: "Local Transportation Ticketing System (Java + Spring Boot + Tomcat + MySQL + REST API + HTML/CSS + JS)",
+  description: [
+    "Automated Ticket Booking : Enables users to book local transport tickets online with real-time availability.",
+    "User Management : Secure login/signup, role-based access for users and admins.",
+    "RESTful API Architecture : Designed using Spring Boot to ensure modular and scalable backend services.",
+    "Database Integration : MySQL used for managing user data, ticket records, and transactions.",
+    "Admin Dashboard : Manage routes, prices, and transactions with a secure admin panel.",
+    "Deployed on Tomcat Server : Ensures fast request handling and scalable server-side processing.",
+    "Tech Stack : Java, Spring Boot, MySQL, REST API, HTML/CSS, JavaScript (Thymeleaf or React for UI).",
+    "Security : JWT-based authentication and HTTPS support for secure transactions.",
+    "Responsive Design : Accessible on mobile and desktop for easy on-the-go ticketing.",
+    "Github : https://github.com/Hrxvish/LocalTransportTicketingSystem"
+  ]
+},
+
+{
+  title: "SightEcho - Smart Goggles for the Visually Impaired (AI/ML+IoT+Python+Firebase+GCP)",
+  description: [
+    "Real-Time Assistance : Uses AI and image processing to detect surroundings, text, and objects in real-time.",
+    "Voice Feedback System : Converts visual data into speech for the blind using TTS via Bluetooth audio.",
+    "Cloud Integration : Processes data with powerful cloud services ensuring speed and reliability.",
+    "Custom-Built Hardware : Developed with Raspberry Pi, USB camera, and Bluetooth speaker for portable use.",
+    "Cross-Platform Access : Firebase integration enables data sync and cloud function triggers.",
+    "Tech Stack : Python, OpenCV, Google Cloud Platform, Firebase, JavaScript (React for web UI), HTML/CSS.",
+    "Machine Learning : Object detection, OCR (Optical Character Recognition), and speech synthesis models.",
+    "IoT & Embedded : Raspberry Pi OS, camera interfacing, real-time sensor integration.",
+    "Realtime Communication : Uses Firestore/Realtime DB for data exchange and Cloud Functions for automation.",
+    "Github : https://github.com/Hrxvish/SightEcho"
+  ]
+},
   {
     title: "Doctor Appointment System (React+Spring Boot+MongoDB+Azure)",
     description: [
@@ -51,6 +56,22 @@ const projects = [
       "Github: https://github.com/Hrxvish/Doctor_Appointment_System"
     ]
   },
+  {
+  title: "Hall Ticket Generator with QR Code (HTML + CSS + JavaScript + React + MySQL + QR API)",
+  description: [
+    "Automated Hall Ticket Generation : Generates personalized hall tickets with student data fetched from the database.",
+    "QR Code Integration : Each hall ticket contains a unique QR code for quick scanning and verification.",
+    "Dynamic Frontend : Built with React.js for a responsive and interactive user interface.",
+    "Backend Connectivity : Connects to MySQL database to fetch and store student records securely.",
+    "PDF Export : Allows users to download or print the hall ticket in PDF format for offline use.",
+    "Modern UI : Designed using HTML, CSS, and JavaScript for a clean and user-friendly layout.",
+    "Data Validation : Ensures accurate and complete input of student details before generating the ticket.",
+    "Tech Stack : HTML, CSS, JavaScript, React.js, MySQL, Node.js/Express (optional for backend), QR code libraries or APIs.",
+    "Secure and Scalable : Built to handle multiple requests efficiently with data integrity.",
+    "Github : https://github.com/Hrxvish/HallTicketQRGenerator"
+  ]
+},
+
   {
     title: "Cab Booking Service (React + Spring Boot + MySQL + Git + Github)",
     description: [
