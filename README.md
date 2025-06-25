@@ -16,7 +16,7 @@ I’m **Vishal Yadav**, I love building innovative projects using technologies l
 
 ## 🌐 Live Website
 
-🔗 [Click here to view my portfolio](https://your-portfolio-url.vercel.app)
+🔗 [Click here to view my portfolio](https://my-portfolio-psi-nine-91.vercel.app/)
 
 *(Replace with your actual deployed Vercel link)*
 
