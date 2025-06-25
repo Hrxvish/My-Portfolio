@@ -10,7 +10,6 @@ I’m **Vishal Yadav**, I love building innovative projects using technologies l
 
 - **Frontend**: React.js, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+)
 - **Backend**: Node.js, Express.js
-- **Database**: Firebase, MongoDB
 - **Deployment**: Vercel
 - **Tools**: Git, GitHub, VS Code
 
