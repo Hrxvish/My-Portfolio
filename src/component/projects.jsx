@@ -17,7 +17,7 @@ const projects = [
     ]
   },
 {
-  title: "Local Transportation Ticketing System (Java + Spring Boot + Tomcat + MySQL + REST API + HTML/CSS + JS)",
+  title: "Local Transportation Ticketing System (Java + Spring Boot + Tomcat + MySQL + REST API)",
   description: [
     "Automated Ticket Booking : Enables users to book local transport tickets online with real-time availability.",
     "User Management : Secure login/signup, role-based access for users and admins.",
@@ -57,7 +57,7 @@ const projects = [
     ]
   },
   {
-  title: "Hall Ticket Generator with QR Code (HTML + CSS + JavaScript + React + MySQL + QR API)",
+  title: "Hall Ticket Generator with QR Code (HTML + CSS + JavaScript + React + MySQL)",
   description: [
     "Automated Hall Ticket Generation : Generates personalized hall tickets with student data fetched from the database.",
     "QR Code Integration : Each hall ticket contains a unique QR code for quick scanning and verification.",
